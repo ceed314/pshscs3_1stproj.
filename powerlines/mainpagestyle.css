@@ -1,0 +1,43 @@
+ *{
+   background-color: black;
+   color: red;
+   text
+   font-family: Garamond;
+  }
+  
+  
+  .textbox{
+   width: 75%;
+   border-style: solid;
+   font-size: 120%;
+   float: left;
+  }
+  
+ 
+  
+  footer{
+   position: absolute;
+   left: 0;
+   bottom: 0;
+   border-style: solid;
+  }
+   
+  }
+  
+  .rightbox{
+   float: float;
+   height: 80%;
+   width: 20%;
+   border-style: solid;
+   Margin: 5px;
+   overflow: auto;
+  }
+  
+  #ni{
+   width: 300px;
+   height: 300px;
+   padding: 5px;
+   padding-left: 15px;
+  }
+  
+  
